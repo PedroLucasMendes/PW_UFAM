@@ -1,0 +1,8 @@
+div {
+    border: medium solid black;
+    background-color: lightgray;
+    background-image: url(imgs/flamengo.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: 30px 10px;
+}
