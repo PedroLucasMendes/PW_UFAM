@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+table{
+    margin-left: 20px;
+    margin-top: 20px;
+}
