@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#chart {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 20px;
+}
+
+.bar {
+    background-color: red;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+}
